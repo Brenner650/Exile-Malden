@@ -1,17 +1,19 @@
 
+
+
 	DMS_StaticMissionTypes =			[
 											//["SaftLaden",1],
 											//["AirBase",1],
-											//["Schiessplatz",1],
-											//["Sportschau",1],
-											//["AbInDenUrlaub",1],
-											["Barrikade",1],
-											["PuestoCrow",1],
-											["MartinFob",1],
-											["LamboParty",1],
-											["BushlurkerCampBase",1],
-											["FabianoBase",1],
-											["Factory",1]
+											["Underwater",1],
+											["AnkesTanke",1],
+											["Outpost",1],
+											["Waffenlager",1],
+											["GasLaden",1],
+											["DerPate",1],
+											["Nachschublager",1],
+											["Sperrgebiet",1],
+											//["Funke",1],
+											["TropicalIsland",1]
 								
 										];
 										
